@@ -1,4 +1,6 @@
 [workspace]
 members = [
   "linked-list",
+  "union-find",
+  "gcd"
 ]
