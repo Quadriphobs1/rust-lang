@@ -3,5 +3,6 @@ members = [
   "linked-list",
   "union-find",
   "gcd",
-  "match-exp"
+  "match-exp",
+  "ownership-exp"
 ]
