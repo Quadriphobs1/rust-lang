@@ -1,4 +1,9 @@
-/// Greatest common divisor of positive numbers
+/// Greatest common divisor of positive integers
+/// Compute the greatest common divisors of two non-negative
+/// integers p and q as follows:
+/// If q is 0, the answer is p, if not, divide p by q and take
+/// the remainder r. The answer of the is divisors of q and r.
+/// Euclids's Algorithm
 fn main() {
     let divisor: i32 = gcd(14, 120);
 
