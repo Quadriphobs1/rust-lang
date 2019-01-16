@@ -6,5 +6,6 @@ members = [
   "match-exp",
   "ownership-exp",
   "repeated-times",
-  "polymorphyism"
+  "polymorphyism",
+  "enum-exp"
 ]
