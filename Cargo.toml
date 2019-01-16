@@ -4,5 +4,6 @@ members = [
   "union-find",
   "gcd",
   "match-exp",
-  "ownership-exp"
+  "ownership-exp",
+  "repeated-times"
 ]
